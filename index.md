@@ -1,6 +1,6 @@
-<h3 align="left">hey, i'm liv! i'm just some kotlin / java dev looking for work</h3>
+<h3 align="left">hey, i'm liv! i'm just some kotlin / java dev</h3>
 
-You're free to hire me, I'm available nearly whenever, just contact me! I prefer to work remotely, but if you're in Ontario, Canada just hit me up and we can work something out!
+I currently have a part time job, but if we can work around my school and work schedule I'm free to do small projects. More information, including my experience, accomplishments and PGP key can be found on my website.
 
 ### 📫 You can contact me at
   - `living#0076` (<9h)
