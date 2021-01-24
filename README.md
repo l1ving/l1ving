@@ -5,6 +5,6 @@ More information, including my experience, accomplishments and PGP key can be fo
 
 ### 📫 You can contact me at
   - `lv#0076` (<9h)
-  - `sokolov.dominika@gmail.com` (<24h)
+  - `~@l1v.in` (<24h)
   - `keybase.io/l1ving` (<24h)
   - `@l1ving:matrix.org` (<24h)
