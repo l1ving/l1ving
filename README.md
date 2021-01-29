@@ -4,7 +4,7 @@ I currently have a part time job, but if we can work around my school and work s
 More information, including my experience, accomplishments and PGP key can be found on my website, [**🌐 l1ving.org**](https://l1ving.org).
 
 ### 📫 You can contact me at
-  - `lv#0250` (<9h)
+  - `lv#0420` (<9h)
   - `~@l1v.in` (<24h)
   - `keybase.io/l1ving` (<24h)
   - `@l1ving:matrix.org` (<24h)
