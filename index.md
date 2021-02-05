@@ -64,6 +64,7 @@ I currently have a part time job, but if we can work around my school and work s
             <pre class="highlight"><code>curl https://l1ving.org/pgp.asc | gpg --import
 curl https://kamiblue.org/pgp.asc | gpg --import
 curl https://keybase.io/l1ving/pgp_keys.asc | gpg --import
+curl https://meta.sr.ht/~liv.pgp | gpg --import
 </code></pre>
         </div>
     </div>
