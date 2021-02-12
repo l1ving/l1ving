@@ -4,8 +4,8 @@
 
 `curl https://l1ving.org/pgp.asc | gpg --import`
 
-### 📫 You can contact me at
-  - `lv#0420` (<9h)
-  - `~@l1v.in` (<24h)
-  - `keybase.io/l1ving` (<24h)
-  - `@l1ving:matrix.org` (<24h)
+Contacts
+`lv#0420` (<9h)
+`~@l1v.in` (<24h)
+`keybase.io/l1ving` (<24h)
+`@l1ving:matrix.org` (<24h)
