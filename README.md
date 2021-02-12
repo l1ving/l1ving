@@ -1,7 +1,8 @@
 <h3 align="left">hey, i'm liv! i'm just some kotlin / java dev</h3>
 
-I currently have a part time job, but if we can work around my school and work schedule I'm free to do small projects.
-More information, including my experience, accomplishments and PGP key can be found on my website, [**🌐 l1v.in**](https://l1v.in).
+[**l1ving.org**](https://l1ving.org) | [**l1v.in**](https://l1v.in) | [**heartbeat**](https://hb.l1v.in)
+
+`curl https://l1ving.org/pgp.asc | gpg --import`
 
 ### 📫 You can contact me at
   - `lv#0420` (<9h)
