@@ -1,4 +1,4 @@
-<h3 align="left">hey, i'm liv! i'm just some kotlin / java dev</h3>
+<h3 align="left">hey, i'm liv! i'm just some kotlin / go / java dev</h3>
 
 [**l1ving.org**](https://l1ving.org) | [**l1v.in**](https://l1v.in) | [**heartbeat**](https://hb.l1v.in)
 
