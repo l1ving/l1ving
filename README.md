@@ -1,6 +1,6 @@
 <h3 align="left">hey, i'm liv! i'm just some kotlin / go / java dev</h3>
 
-[**l1ving.org**](https://l1ving.org) | [**l1v.in**](https://l1v.in) | [**heartbeat**](https://hb.l1v.in)
+[**l1ving.org**](https://l1ving.org) | [**l1v.in**](https://l1v.in) | [**i.l1v.in**](https://i.l1v.in) | [**heartbeat**](https://hb.l1v.in)
 
 `lv#0420` (<9h)
 `~@l1v.in` (<24h)
