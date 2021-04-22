@@ -4,9 +4,9 @@ I currently have a part time job, but if we can work around my school and work s
 
 ### 📫 You can contact me at
   - `lv#0420` (<9h)
+  - `@l1ving:matrix.org` (<9h)
   - `~@l1v.in` (<24h)
   - `keybase.io/l1ving` (<24h)
-  - `@l1ving:matrix.org` (<24h)
 
 ### ⚙️ I have experience using
   - Linux
