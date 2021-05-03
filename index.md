@@ -1,6 +1,8 @@
 ## hey, i'm liv! i'm just some kotlin / go / java dev
 
-I currently have a part time job, but if we can work around my school and work schedule I'm free to do small projects.
+I'm currently unemployed, and if we can work around my school and work schedule I'm free to do small projects.
+
+Alternatively, I'm free to do long-term part-time jobs remotely.
 
 ### 📫 You can contact me at
   - `lv#0420` (<9h)
