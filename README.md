@@ -2,7 +2,7 @@
 
 [**l1ving.org**](https://l1ving.org) | [**l1v.in**](https://l1v.in) | [**i.l1v.in**](https://i.l1v.in) | [**heartbeat**](https://hb.l1v.in)
 
-`lv#0420` (<9h)
+`🐸឵#0001` (<9h)
 `@l1ving:matrix.org` (<9h)
 `~@l1v.in` (<24h)
 `keybase.io/l1ving` (<24h)

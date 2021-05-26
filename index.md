@@ -5,7 +5,7 @@ I'm currently unemployed, and if we can work around my school and work schedule 
 Alternatively, I'm free to do long-term part-time jobs remotely.
 
 ### 📫 You can contact me at
-  - `lv#0420` (<9h)
+  - `🐸឵#0001` (<9h)
   - `@l1ving:matrix.org` (<9h)
   - `~@l1v.in` (<24h)
   - `keybase.io/l1ving` (<24h)
