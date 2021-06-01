@@ -145,3 +145,10 @@ XkEywP0GYFQKamJIA3G2DxUtxSwcItClCYRvtjOyRehyimqbsZfYIiU=
     <p>Fingerprint: <code class="language-plaintext highlighter-rouge">359C456DFEF4811966291BD0AF236A45B0255DA8</code></p>
 </details>
 <br>
+
+### Devices
+
+  - `strawberry`: Laptop @ Arch Linux
+  - `blueberry`: Phone @ Android
+  - `plum`: Laptop @ KDE Neon
+  - `peach`: Yubikey
