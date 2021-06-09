@@ -5,6 +5,6 @@
 `🐸឵#0001` (<9h)
 `@l1ving:matrix.org` (<9h)
 `~@l1v.in` (<24h)
-`keybase.io/l1ving` (<24h)
+`keybase.io/l1ving` (<168h)
 
 `curl https://l1ving.org/pgp.asc | gpg --import`

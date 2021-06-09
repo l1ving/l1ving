@@ -8,7 +8,7 @@ Alternatively, I'm free to do long-term part-time jobs remotely.
   - `🐸឵#0001` (<9h)
   - `@l1ving:matrix.org` (<9h)
   - `~@l1v.in` (<24h)
-  - `keybase.io/l1ving` (<24h)
+  - `keybase.io/l1ving` (<168h)
 
 ### ⚙️ I have experience using
   - Linux
