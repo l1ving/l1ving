@@ -2,7 +2,7 @@
 
 I'm currently unemployed, and if we can work around my school and work schedule I'm free to do small projects.
 
-Alternatively, I'm free to do long-term part-time jobs remotely.
+Alternatively, I'm free to do part-time jobs remotely, or freelance work. Please contact me for experience and other info as my resume / portfolio website is still under construction.
 
 ### You can contact me at
   - `🐸឵#0001` (<9h)
