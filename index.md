@@ -105,6 +105,6 @@ XkEywP0GYFQKamJIA3G2DxUtxSwcItClCYRvtjOyRehyimqbsZfYIiU=
   - `strawberry`: Laptop @ Arch Linux
   - `blueberry`: Phone @ Android
   - `plum`: Laptop @ KDE Neon
+  - `durian`: Main server host @ Ubuntu
+  - `kiwano`: Alternative server host @ Ubuntu
   - `peach`: Yubikey
-  - `durian`: Main server host
-  - `kiwano`: Alternative server host
