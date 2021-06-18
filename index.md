@@ -4,58 +4,13 @@ I'm currently unemployed, and if we can work around my school and work schedule 
 
 Alternatively, I'm free to do long-term part-time jobs remotely.
 
-### 📫 You can contact me at
+### You can contact me at
   - `🐸឵#0001` (<9h)
   - `@l1ving:matrix.org` (<9h)
   - `~@l1v.in` (<24h)
   - `keybase.io/l1ving` (<168h)
 
-### ⚙️ I have experience using
-  - Linux
-  - Kotlin
-  - Java
-<details>
-  <summary><b>View More</b></summary>
-
-<ul>
-<li>Shell</li>
-<li>SSH</li>
-<li>Brigadier</li>
-<li>Kordis</li>
-<li>Coroutines</li>
-<li>OkHttp</li>
-<li>Mixin</li>
-<li>ASM</li>
-<li>Jitpack</li>
-<li>Baritone</li>
-<li>JavaScript</li>
-<li>CSS</li>
-<li>HTML</li>
-</ul>
-
-</details>
-
-### 🚀 I have experience doing 
-  - Project management of ~20 people
-  - Social media management
-  - Troubleshooting on a large scale
-  - Server management
-  - Database management
-
-### ✨ Public projects I have worked on
-  - [KAMI Blue](https://github.com/kami-blue)
-    - Maintained and rewrote a 20-30k line codebase
-    - Learned several different frameworks to create a support ticketing system (OkHttp, Kordis)
-    - Managed custom CI server with entirely custom build scripts to post changelogs to social media, a website and Github
-    - Grew the project to reach 5k+ social media followers and 100k+ downloads with no advertising
-  - [Lemmy API](https://github.com/eiknat/lemmy-client)
-    - Reviewed and created tests for a multi-platform API
-  - [discord-invite](https://github.com/l1ving/discord-invite)
-    - Recreated CSS with extreme accuracy, without reference code
-
-### 🔑 PGP
-
-
+### PGP
 
 <details>
     <summary>Key</summary>
