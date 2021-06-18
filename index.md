@@ -99,7 +99,6 @@ XkEywP0GYFQKamJIA3G2DxUtxSwcItClCYRvtjOyRehyimqbsZfYIiU=
     <p>Name: <code class="language-plaintext highlighter-rouge">l1ving</code></p>
     <p>Fingerprint: <code class="language-plaintext highlighter-rouge">359C456DFEF4811966291BD0AF236A45B0255DA8</code></p>
 </details>
-<br>
 
 ### Devices
 
