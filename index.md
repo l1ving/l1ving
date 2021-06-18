@@ -106,3 +106,5 @@ XkEywP0GYFQKamJIA3G2DxUtxSwcItClCYRvtjOyRehyimqbsZfYIiU=
   - `blueberry`: Phone @ Android
   - `plum`: Laptop @ KDE Neon
   - `peach`: Yubikey
+  - `durian`: Main server host
+  - `kiwano`: Alternative server host
