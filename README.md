@@ -1,6 +1,6 @@
 <h3 align="left">hey, i'm liv! i'm just some kotlin / go / java dev</h3>
 
-[**l1v.in**](https://l1v.in) | [**fs-over-http**](https://i.l1v.in) | [**heartbeat**](https://hb.l1v.in) | [**donate to support my work**](https://paypal.me/livisalive/5USD)
+[**l1v.in**](https://l1v.in) | [**fs-over-http**](https://i.l1v.in) | [**heartbeat**](https://hb.l1v.in)
 
 ```
 🐸឵#0001				(<9h)
